@@ -1,4 +1,7 @@
-
+/*
+  Emanuel W.
+  Nov 22, 2018
+*/
 
 final int[] gridSize = new int[] { 30, 30 };
 final float maxLookY = 45;
